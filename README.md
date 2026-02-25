@@ -1,6 +1,6 @@
 # 🚨 The first Arabic multimodal sentiment analisys dataset  
 ### A-Two-Stage-Cross-Modal-Attention-Mechanism-for-Arabic-Multimodal-Sentiment-Analysis🧠🖼️📝
-
+## Note that the full code will be availabrl after paper publication
 ## 📌 Overview
 This repository provides a curated dataset and an experimental notebook for **Arabic multimodal sentiment classification**.  
 The dataset includes **tweet IDs**, **labels (Negative/Positive/Neutral)**, and **source dataset names**, enabling researchers and students to explore **image–text sentiment analysis** on Arabic social media platforms.
